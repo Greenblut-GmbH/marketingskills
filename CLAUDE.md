@@ -1,115 +1,85 @@
 CLAUDE.md – Greenblut Marketing Skills
-Dieses Repository enthält Marketing Skills für Claude Code. Alle Skills unter /skills/
-sollen auf Greenblut GmbH zugeschnitten sein. Lies diese Datei immer zuerst, bevor
-du einen Skill liest oder anpasst.
+Dieses Repository enthält Marketing Skills für Claude Code. Greenblut nutzt diese Skills
+für die Arbeit an Kundenprojekten – nicht für das eigene Marketing.
+Lies diese Datei immer zuerst, bevor du einen Skill liest oder anpasst.
 
-Über Greenblut GmbH
+Kontext: Wer sind wir, wer sind unsere Kunden?
+Greenblut GmbH ist eine spezialisierte Shopify-Agentur aus Freiburg mit 150+
+Migrationen im DACH-Raum. Wir setzen diese Skills ein, um für unsere Kunden
+Marketing-Aufgaben zu erledigen – z.B. E-Mail-Sequenzen, Content-Strategien,
+Cold Outreach, SEO-Texte, A/B-Tests und mehr.
+Unsere Kunden sind E-Commerce-Betreiber im DACH-Raum – typischerweise:
+Kundentyp 1: Mittelständische Hersteller im Shopsystem-Umbruch
 
-Gegründet: 2013, Freiburg (Deutschland)
-Spezialisierung: Shopify-Migrationen und E-Commerce-Optimierung im DACH-Raum
-Kernkompetenz: Migrationen von Shopware 5, Magento 1/2, WooCommerce, xt:Commerce → Shopify
-Erfahrung: 150+ erfolgreiche Migrationen
-Markt: 70% DACH, 30% restliches Europa – primär nachhaltige B2B/B2C-Unternehmen
+Familiengeführte oder eigentümergeführte Hersteller
+Problem: Shopware 5, Magento 1/2 oder xt:Commerce – technisch instabil, EOL
+Oft Generationenwechsel, komplexe ERP/CRM-Integrationen
+Kernthema: Zukunftsfähigkeit ohne Chaos
 
-Hauptprodukte (immer relevant für Content)
+Kundentyp 2: Betreiber veralteter Onlineshops
 
-Shopify-Migration – Vollständige Plattformwechsel inkl. Daten, Design, Integrationen
-Shopify-Support – Laufende technische Betreuung bestehender Shops
-Optimierungs-Retainer – SEO, CRO, E-Mail-Marketing, AI-Integrationen
+Solo-Unternehmer oder kleine Teams mit alten Systemen (Gambio, osCommerce, xt:Commerce)
+Sicherheitslücken, fehlende moderne Features, kein Update-Support mehr
+Kernthema: Stabilität zurückgewinnen, Schritt für Schritt
 
+Kundentyp 3: Umsatz-Stagnierer
 
-Kernpositionierung
-
-North Star: Ein Shopify-Shop ist ein System. Systeme werden nicht fertig, sie werden besser oder schlechter.
-
-Kernversprechen: Greenblut modernisiert Shops nicht, um sie schöner zu machen, sondern
-um sie zu einem belastbaren Wachstumssystem zu entwickeln.
-Das Greenblut-System (3 Bausteine):
-
-Klarheit – Positionierung, Prioritäten, "Für wen ist das wirklich?"
-Fundament – Performance, Stabilität, logische Struktur
-Setup – Daten, Content, Automatisierung für kontinuierliche Verbesserung
+Aktive Shopbetreiber (B2B oder B2C) mit stagnierendem Umsatz
+Steigende CPCs, schlechtes Tracking, fragmentierte Infrastruktur
+Kernthema: Aus Aktionismus wird System
 
 
-Brand Voice
-In einem Satz: Klar. Strategisch. Menschlich. Zukunftsorientiert. Ohne Bullshit.
-Tonalität – TUN
+Wie wir die Skills einsetzen
+Wenn wir einen Skill ausführen, arbeiten wir immer im Auftrag eines Kunden.
+Zu Beginn jeder Skill-Nutzung:
 
-Du-Ansprache (Default) – Sie nur bei ICP4/Konzernen
-Professionell, aber nicht steif
-Ruhige Zuversicht statt Hype
-Kurze bis mittellange Sätze
+Frage nach dem Kundenprojekt (Branche, Produkt, Zielgruppe, Plattform)
+Passe alle Outputs auf diesen Kunden-Kontext an
+Nutze die Kundentypen oben als Orientierung, welche Sprache und Schmerzpunkte relevant sind
+
+Wichtig: Greenblut selbst ist nicht der Absender. Der Kunde ist der Absender.
+
+Allgemeine Leitplanken für Kunden-Content
+Tonalität (Default für DACH E-Commerce)
+
+Du-Ansprache als Standard (Sie nur bei klarem B2B-Konzernkontext)
+Professionell aber nicht steif – verständlich für Geschäftsführer
 Nutzen vor Features
 Konkrete Beispiele statt abstrakte Versprechen
+Kein Hype, kein künstlicher Druck
 
-Tonalität – VERMEIDEN
+Vermeiden
 
 Superlative ohne Beleg ("revolutionär", "bahnbrechend")
 Leere Phrasen ("ganzheitlich", "360°", "aus einer Hand")
 Künstlichen Druck ("jetzt handeln", "nur noch heute")
-Technischen Overkill ohne Einordnung
-
-Erlaubte Wortfelder
-Klarheit · Struktur · Wachstumssystem · Migration als Startpunkt · Sparring ·
-iterativ verbessern · datenbasiert · nachhaltig skalieren · unternehmerisch denken
-Goldene Regel
-
-Wenn ein Satz von jeder Shopify-Agentur stammen könnte, ist er kein Greenblut-Satz.
-
-
-Zielkunden (ICPs)
-ICP 1: Mittelständische Hersteller im Shopsystem-Umbruch
-
-Wer: Familiengeführte oder eigentümergeführte Hersteller im DACH-Raum
-Problem: Shopware 5, Magento 1/2 oder xt:Commerce – technisch instabil, EOL
-Kontext: Oft Generationenwechsel, komplexe ERP/CRM-Integrationen nötig
-Kernbotschaft: "Zukunftsfähigkeit ohne Chaos"
-Trigger: Shopware 5 EOL, wachsende Instabilität, Agenturwechsel
-
-ICP 2: Betreiber veralteter Onlineshops
-
-Wer: Solo-Unternehmer oder kleine Teams mit alten Systemen (xt:Commerce 3, Gambio, osCommerce)
-Problem: Sicherheitslücken, keine Updates, fehlende moderne Features
-Kontext: Wenig technisches Know-how, "Never change a running system"-Mentalität
-Kernbotschaft: "Stabilität zurück, Schritt für Schritt"
-Trigger: Support-Ende des Systems, Sicherheitsvorfall, Wachstumsblockade
-
-ICP 3: Umsatz-Stagnierer
-
-Wer: Betreiber von Nischen-Onlineshops (B2B oder B2C) mit stagnierendem Umsatz
-Problem: Kein Wachstum trotz Aktivismus, CPCs steigen >30%, schlechtes Tracking
-Kontext: Fragmentierte Infrastruktur, kein Lernzyklus, organisatorisches Chaos
-Kernbotschaft: "Aus Aktionismus wird System"
-Trigger: Sinkender ROAS, Agentur-Frust, Budgetdruck
 
 
 Anweisungen für Skill-Anpassungen
 Wenn du einen Skill unter /skills/ analysierst und anpasst, gehe so vor:
 
 Lies die originale SKILL.md vollständig
-Identifiziere was generisch ist und nicht zu Greenblut passt (Beispiele, Branchen, Tonalität, Kanäle)
-Ersetze generische Beispiele durch Greenblut-spezifische:
+Identifiziere was generisch ist und für DACH E-Commerce-Kunden nicht passt
+Ersetze generische Beispiele durch E-Commerce/Shopify-spezifische:
 
-Branche: E-Commerce / Shopify / DACH-Mittelstand
-Personas: Die 3 ICPs oben
-Produkte: Migration, Support, Optimierungs-Retainer
-Tonalität: Brand Voice oben
+Branche: Onlinehandel, DACH-Mittelstand, Shopify-Shops
+Szenarien: Migration, Shop-Optimierung, Wachstum nach Relaunch
+Endkunden-Kontext: Die 3 Kundentypen oben
 
 
 Behalte die originale Struktur und Logik des Skills bei
-Ergänze fehlende Greenblut-relevante Szenarien (z.B. Migration-spezifische Cold Emails)
-Schreibe alle Beispiele und Templates auf Deutsch (außer es gibt einen expliziten Grund für Englisch)
+Denke immer aus Agentursicht: Greenblut führt den Skill aus, der Kunde profitiert
+Schreibe alle Beispiele und Templates auf Deutsch
 
 Qualitäts-Check nach Anpassung
 
-Würde ein Greenblut-Geschäftsführer das ernst nehmen?
-Sind Beispiele konkret für DACH E-Commerce / Shopify?
-Passt die Tonalität zur Brand Voice?
-Könnte der Text von jeder anderen Shopify-Agentur stammen? → Falls ja: nochmal überarbeiten
+Wäre das Output direkt für einen DACH-Shopbetreiber nutzbar?
+Sind die Beispiele konkret für E-Commerce / Shopify?
+Funktioniert das für alle 3 Kundentypen, oder muss es spezifiziert werden?
+Klingt es wie ein erfahrener E-Commerce-Berater, nicht wie ein Textgenerator?
 
 
 Sprache
 Alle angepassten Skills und Beispiel-Templates sollen auf Deutsch verfasst sein,
-sofern nichts anderes angegeben. Ausnahme: Technische Begriffe, die im Deutschen
-unüblich sind (z.B. "Checkout", "Shopify", "A/B-Test").
-AGENTS.md
+sofern nichts anderes angegeben. Ausnahme: Technische Begriffe die im Deutschen
+unüblich sind (z.B. "Checkout", "Shopify", "A/B-Test", "Conversion Rate").
